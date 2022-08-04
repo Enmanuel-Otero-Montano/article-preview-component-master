@@ -44,6 +44,10 @@
     height: 65px;
 }
 
+.avatar-name-date-container {
+    background: linear-gradient(to bottom, hsl(0, 0%, 95%), hsl(0, 0%, 86%));
+}
+
 .avatar {
     width: 50px;
     border-radius: 50%;
